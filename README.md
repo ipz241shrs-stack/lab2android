@@ -19,7 +19,7 @@
 
 | Головна (Новини) | Бокове меню | Список контактів |
 | :---: | :---: | :---: |
-| <img src="https://github.com/ipz241shrs-stack/lab2android/blob/master/screenshots/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202026-06-11%20183113.png" width="280" alt="Новини" /> | <img src="https://github.com/user-attachments/assets/60040879-20f3-4056-9e47-82cc789492c3](https://github.com/ipz241shrs-stack/lab2android/blob/master/screenshots/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202026-06-11%20183130.png" width="280" alt="Меню" /> | <img src="https://github.com/user-attachments/assets/2ee8c81d-682d-445a-b45a-2ff642de86a2](https://github.com/ipz241shrs-stack/lab2android/blob/master/screenshots/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202026-06-11%20183142.png" width="280" alt="Контакти" /> |
+| <img src="https://github.com/ipz241shrs-stack/lab2android/blob/master/screenshots/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202026-06-11%20183113.png" width="280" alt="Новини" /> | <img src="[https://github.com/user-attachments/assets/60040879-20f3-4056-9e47-82cc789492c3](https://github.com/ipz241shrs-stack/lab2android/blob/master/screenshots/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202026-06-11%20183130.png)" width="280" alt="Меню" /> | <img src="[https://github.com/user-attachments/assets/2ee8c81d-682d-445a-b45a-2ff642de86a2](https://github.com/ipz241shrs-stack/lab2android/blob/master/screenshots/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202026-06-11%20183142.png)" width="280" alt="Контакти" /> |
 
 ## Як запустити
 1. Встановити залежності: `npm install`
