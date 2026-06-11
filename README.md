@@ -2,11 +2,12 @@
 # Лабораторна робота №2: Списки та навігація у React Native
 
 **Дисципліна:** Розробка мобільних застосунків  
-**Студент:** Рудницький Арсеній Миколайович  
-**Група:** ІПЗ-24-3
+**Студент:** Шпак Роман Сергійович  
+**Група:** ІПЗ-24-1
+**Підгрупа:** 2
 
 ## Опис проекту
-Метою роботи було створення мобільного додатка з використанням компонентів навігації та структурованих списків. У проекті реалізовано поєднання бокового меню (Drawer Navigation) та стекової навігації (Stack Navigation).
+Метою цієї роботи було створити мобільний додаток завдяки використаню компонентів навігації та структурованих списків. У проекті реалізовано поєднання бокового меню та стекової навігації.
 
 ### Основні можливості:
 * **Списки новин :** Реалізовано вивід масиву даних з динамічним завантаженням нових елементів при скролі (Infinite Scroll) та індикатором завантаження.
@@ -18,7 +19,8 @@
 
 | Головна (Новини) | Бокове меню | Список контактів |
 | :---: | :---: | :---: |
-| <img src="https://github.com/user-attachments/assets/14af619f-c08d-44ab-b570-b5db46616e9f" width="280" alt="Новини" /> | <img src="https://github.com/user-attachments/assets/60040879-20f3-4056-9e47-82cc789492c3" width="280" alt="Меню" /> | <img src="https://github.com/user-attachments/assets/2ee8c81d-682d-445a-b45a-2ff642de86a2" width="280" alt="Контакти" /> |
+| <img src="https://github.com/ipz241shrs-stack/lab2android/blob/master/screenshots/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202026-06-11%20183113.png" width="280" alt="Новини" /> | <img src="https://github.com/user-attachments/assets/60040879-20f3-4056-9e47-82cc789492c3](https://github.com/ipz241shrs-stack/lab2android/blob/master/screenshots/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202026-06-11%20183130.png" width="280" alt="Меню" /> | <img src="https://github.com/user-attachments/assets/2ee8c81d-682d-445a-b45a-2ff642de86a2](https://github.com/ipz241shrs-stack/lab2android/blob/master/screenshots/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202026-06-11%20183142.png" width="280" alt="Контакти" /> |
+
 ## Як запустити
 1. Встановити залежності: `npm install`
 2. Запустити сервер: `npx expo start`
